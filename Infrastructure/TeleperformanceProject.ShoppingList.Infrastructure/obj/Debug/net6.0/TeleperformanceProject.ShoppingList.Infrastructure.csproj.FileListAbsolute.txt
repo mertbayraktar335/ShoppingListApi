@@ -1,0 +1,17 @@
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.deps.json
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.csproj.AssemblyReference.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.AssemblyInfoInputs.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.AssemblyInfo.cs
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.csproj.CopyComplete
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\refint\TeleperformanceProject.ShoppingList.Infrastructure.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Infrastructure.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Infrastructure\TeleperformanceProject.ShoppingList.Infrastructure\obj\Debug\net6.0\ref\TeleperformanceProject.ShoppingList.Infrastructure.dll

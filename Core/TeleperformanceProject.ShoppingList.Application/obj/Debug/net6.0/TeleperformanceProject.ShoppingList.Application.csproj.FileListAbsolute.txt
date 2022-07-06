@@ -1,0 +1,15 @@
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.deps.json
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.csproj.AssemblyReference.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.AssemblyInfoInputs.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.AssemblyInfo.cs
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.csproj.CoreCompileInputs.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.csproj.CopyComplete
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\refint\TeleperformanceProject.ShoppingList.Application.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Application.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Application\obj\Debug\net6.0\ref\TeleperformanceProject.ShoppingList.Application.dll

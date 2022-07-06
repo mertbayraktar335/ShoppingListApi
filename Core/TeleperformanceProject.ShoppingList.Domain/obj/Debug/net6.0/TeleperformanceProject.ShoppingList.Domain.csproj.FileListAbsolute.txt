@@ -1,0 +1,12 @@
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.deps.json
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\bin\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.csproj.AssemblyReference.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.AssemblyInfoInputs.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.AssemblyInfo.cs
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.csproj.CoreCompileInputs.cache
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\refint\TeleperformanceProject.ShoppingList.Domain.dll
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\TeleperformanceProject.ShoppingList.Domain.pdb
+D:\TP .Net\TeleperformanceProject.ShoppingList\Core\TeleperformanceProject.ShoppingList.Domain\obj\Debug\net6.0\ref\TeleperformanceProject.ShoppingList.Domain.dll

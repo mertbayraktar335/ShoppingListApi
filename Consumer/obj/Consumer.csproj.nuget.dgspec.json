@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Consumer\\Consumer.csproj": {}
+  },
+  "projects": {
+    "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Consumer\\Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Consumer\\Consumer.csproj",
+        "projectName": "Consumer",
+        "projectPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Consumer\\Consumer.csproj",
+        "packagesPath": "C:\\Users\\Bescha\\.nuget\\packages\\",
+        "outputPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bescha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Application\\TeleperformanceProject.ShoppingList.Application.csproj": {
+                "projectPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Application\\TeleperformanceProject.ShoppingList.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Application\\TeleperformanceProject.ShoppingList.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Application\\TeleperformanceProject.ShoppingList.Application.csproj",
+        "projectName": "TeleperformanceProject.ShoppingList.Application",
+        "projectPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Application\\TeleperformanceProject.ShoppingList.Application.csproj",
+        "packagesPath": "C:\\Users\\Bescha\\.nuget\\packages\\",
+        "outputPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bescha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Domain\\TeleperformanceProject.ShoppingList.Domain.csproj": {
+                "projectPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Domain\\TeleperformanceProject.ShoppingList.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Domain\\TeleperformanceProject.ShoppingList.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Domain\\TeleperformanceProject.ShoppingList.Domain.csproj",
+        "projectName": "TeleperformanceProject.ShoppingList.Domain",
+        "projectPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Domain\\TeleperformanceProject.ShoppingList.Domain.csproj",
+        "packagesPath": "C:\\Users\\Bescha\\.nuget\\packages\\",
+        "outputPath": "D:\\TP .Net\\TeleperformanceProject.ShoppingList\\Core\\TeleperformanceProject.ShoppingList.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bescha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
